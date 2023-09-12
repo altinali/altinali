@@ -1,16 +1,21 @@
-### Hi there 👋
+### Merhaba, Ben Ali Altın 👋
+
+Yazılım geliştirme konusundaki deneyimim HTML, CSS, Bootstrap, JavaScript ve React gibi önemli web teknolojileri üzerinde yoğunlaşıyor. Bu teknolojileri kullanarak etkileyici web uygulamaları ve projeleri geliştirebiliyorum.
+
+#### Becerilerim
+
+- Frontend Geliştirme
+- HTML, CSS, Bootstrap
+- JavaScript ve ES6+
+- React ve Redux
+- 
+Benimle iletişime geçmek için "alialtin092@gmail.com" mail adresini kullanabilirsiniz.
 
 
-**altinali/altinali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
 
